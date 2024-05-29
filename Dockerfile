@@ -1,4 +1,4 @@
-FROM tomcat:10.0
+FROM tomcat:10.0.27
 
 COPY CoffeeShopp.war /usr/local/tomcat/webapps/CoffeeShopp.war
 
